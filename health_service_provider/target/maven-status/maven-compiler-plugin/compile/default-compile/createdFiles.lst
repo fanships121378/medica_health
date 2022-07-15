@@ -1,0 +1,4 @@
+com\fanship\service\impl\CheckItemServiceImpl.class
+com\fanship\dao\CheckItemDao.class
+com\fanship\dao\CheckGroupDao.class
+com\fanship\service\impl\CheckGroupServiceImpl.class

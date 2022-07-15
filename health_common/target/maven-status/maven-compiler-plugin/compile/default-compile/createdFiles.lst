@@ -1,0 +1,14 @@
+com\fanship\pojo\Permission.class
+com\fanship\pojo\Order.class
+com\fanship\entity\Result.class
+com\fanship\entity\PageResult.class
+com\fanship\common\MessageContant.class
+com\fanship\pojo\Menu.class
+com\fanship\pojo\CheckItem.class
+com\fanship\entity\QueryPageBean.class
+com\fanship\pojo\Role.class
+com\fanship\pojo\OrderSetting.class
+com\fanship\pojo\User.class
+com\fanship\pojo\CheckGroup.class
+com\fanship\pojo\Setmeal.class
+com\fanship\pojo\Member.class
